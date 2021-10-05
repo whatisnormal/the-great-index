@@ -1,5 +1,8 @@
 
 ## Golang
+
+### Standards
+- [Good naming](https://talks.golang.org/2014/names.slide#1)
 ### Application structure
 - [Project Layout](https://github.com/golang-standards/project-layout)
 
