@@ -11,6 +11,7 @@
 
 ### Testing
 - [Unit testing REST APIs - Article](https://dev.to/chefgs/develop-rest-api-using-go-and-test-using-various-methods-8e0)
+- [Effective tests](https://moshe-beladev-mb.medium.com/tips-for-effective-go-tests-6b9f1e242f02)
 
 
 ### Application design
