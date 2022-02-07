@@ -27,3 +27,6 @@
 
 ## Designing systems that scale
 - [Awesome Scalability reference index](https://github.com/binhnguyennus/awesome-scalability)
+
+## Communication
+- [slide.dev - Building slide decks using YML](https://sli.dev/)
