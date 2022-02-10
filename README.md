@@ -30,3 +30,6 @@
 
 ## Communication
 - [slide.dev - Building slide decks using YML](https://sli.dev/)
+
+## Networking
+- [Networking 101](https://iximiuz.com/en/posts/computer-networking-101/)
