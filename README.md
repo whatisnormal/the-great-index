@@ -3,6 +3,8 @@
 - [visualizing data structures](https://visualgo.net/en)
 
 ## Golang
+- [general education](https://mehdihadeli.github.io/awesome-go-education/)
+- [tutorial](https://quii.gitbook.io/learn-go-with-tests/)
 
 ### Standards
 - [Good naming](https://talks.golang.org/2014/names.slide#1)
