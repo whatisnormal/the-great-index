@@ -1,4 +1,7 @@
 
+# Containers
+- [Learn containers from the ground up](https://iximiuz.com/en/posts/container-learning-path)
+
 # GIT
 - [find the right commands you need](https://gitexplorer.com/)
 - [GIT Zines](https://github.com/girliemac/a-picture-is-worth-a-1000-words/tree/main/git-purr)
