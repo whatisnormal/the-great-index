@@ -1,4 +1,7 @@
 
+## Data structures
+- [visualizing data structures](https://visualgo.net/en)
+
 ## Golang
 
 ### Standards
