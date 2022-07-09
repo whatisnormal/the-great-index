@@ -1,10 +1,31 @@
 
-# Data structures
+# GIT
+- [find the right commands you need](https://gitexplorer.com/)
+- [GIT Zines](https://github.com/girliemac/a-picture-is-worth-a-1000-words/tree/main/git-purr)
+- [Learn git by playing](https://ohmygit.org/)
+
+# Algorithms & Data structures
 - [visualizing data structures](https://visualgo.net/en)
+- [Algos & Data structure zines](https://github.com/girliemac/a-picture-is-worth-a-1000-words/tree/main/algorithms)
+
+# Command line
+- [Murder mistery - learn by playing](https://github.com/veltman/clmystery)
+
+# Regex
+- [learn regex using crosswords](https://regexcrossword.com/)
+
+# SQL
+- [Learn sql with murder mistery](https://mystery.knightlab.com/)
+- [SQL tricks of an application DBA](https://hakibenita.com/sql-tricks-application-dba)
 
 # Frontend
+## CSS
+- [CSS Dinner - learn by playing](https://flukeout.github.io/)
+
+
 ## RX JX
 - [Primer](https://www.learnrxjs.io/learn-rxjs/concepts/rxjs-primer)
+- [Playground and examples](https://thinkrx.io/rxjs/)
 
 ## Golang
 - [general education](https://mehdihadeli.github.io/awesome-go-education/)
