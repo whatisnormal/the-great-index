@@ -20,6 +20,7 @@
 # SQL
 - [Learn sql with murder mistery](https://mystery.knightlab.com/)
 - [SQL tricks of an application DBA](https://hakibenita.com/sql-tricks-application-dba)
+- [A guide to DB performance for developers](https://use-the-index-luke.com/)
 
 # Frontend
 ## CSS
