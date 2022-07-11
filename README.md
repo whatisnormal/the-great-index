@@ -34,6 +34,7 @@
 ## Golang
 - [general education](https://mehdihadeli.github.io/awesome-go-education/)
 - [tutorial](https://quii.gitbook.io/learn-go-with-tests/)
+- [Go by Examples](https://gobyexample.com/)
 
 ### Standards
 - [Good naming](https://talks.golang.org/2014/names.slide#1)
