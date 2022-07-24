@@ -6,6 +6,7 @@
 - [find the right commands you need](https://gitexplorer.com/)
 - [GIT Zines](https://github.com/girliemac/a-picture-is-worth-a-1000-words/tree/main/git-purr)
 - [Learn git by playing](https://ohmygit.org/)
+- [Rebase intro](https://dev.to/maxwell_dev/the-git-rebase-introduction-i-wish-id-had)
 
 # Algorithms & Data structures
 - [visualizing data structures](https://visualgo.net/en)
