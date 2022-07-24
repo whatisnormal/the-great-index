@@ -20,12 +20,15 @@
 # SQL
 - [Learn sql with murder mistery](https://mystery.knightlab.com/)
 - [SQL tricks of an application DBA](https://hakibenita.com/sql-tricks-application-dba)
-- [A guide to DB performance for developers](https://use-the-index-luke.com/)
+- [A guide to DB performance for developers - use the index luke](https://use-the-index-luke.com/)
+- [Old and new features and what products support them](https://modern-sql.com/)
 
 # Frontend
 ## CSS
 - [CSS Dinner - learn by playing](https://flukeout.github.io/)
-
+## Javascript
+- [WarriorsJS](https://warriorjs.com)
+- [JS Robot](https://lab.reaal.me/jsrobot/)
 
 ## RX JX
 - [Primer](https://www.learnrxjs.io/learn-rxjs/concepts/rxjs-primer)
