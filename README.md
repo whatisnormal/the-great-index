@@ -27,6 +27,7 @@
 # Frontend
 ## CSS
 - [CSS Dinner - learn by playing](https://flukeout.github.io/)
+- [Flexbox froggy](https://flexboxfroggy.com/)
 ## Javascript
 - [WarriorsJS](https://warriorjs.com)
 - [JS Robot](https://lab.reaal.me/jsrobot/)
