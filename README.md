@@ -11,6 +11,8 @@
 ## Add passphrase to apple keychain
 > ssh-add --apple-use-keychain ~/.ssh/id_rsa
 
+Replace "id_rsa" with your pvt key file. More at [Add Identity Using Keychain
+](https://stackoverflow.com/a/25721662/9507467)
 
 # Algorithms & Data structures
 - [visualizing data structures](https://visualgo.net/en)
