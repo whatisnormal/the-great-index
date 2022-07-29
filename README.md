@@ -8,6 +8,10 @@
 - [Learn git by playing](https://ohmygit.org/)
 - [Rebase intro](https://dev.to/maxwell_dev/the-git-rebase-introduction-i-wish-id-had)
 
+## Add passphrase to apple keychain
+> ssh-add --apple-use-keychain ~/.ssh/id_rsa
+
+
 # Algorithms & Data structures
 - [visualizing data structures](https://visualgo.net/en)
 - [Algos & Data structure zines](https://github.com/girliemac/a-picture-is-worth-a-1000-words/tree/main/algorithms)
