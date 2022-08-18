@@ -1,0 +1,1 @@
+ * [how inflation works](https://finmasters.com/how-inflation-works/?twclid=2-59qgny5mstacc81ytlyrka0sx)
