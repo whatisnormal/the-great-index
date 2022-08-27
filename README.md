@@ -19,6 +19,7 @@ Replace "id_rsa" with your pvt key file. More at [Add Identity Using Keychain
 - [Algos & Data structure zines](https://github.com/girliemac/a-picture-is-worth-a-1000-words/tree/main/algorithms)
 
 # Command line
+- [Cheat sheet](https://github.com/chubin/cheat.s)
 - [Murder mistery - learn by playing](https://github.com/veltman/clmystery)
 
 # Regex
