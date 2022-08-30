@@ -1,3 +1,43 @@
+# Base GIT Configs to setup
+## Set name and email
+>git config --global user.name "Mohammad-Ali A'râbi"
+
+>git config --global user.email "my-name-at-work@employer.com"
+
+remove the option --global to set repo specific config
+>git config user.email "my-personal-id@gmail.com"
+
+## Default branch name
+> git config --global init.defaultBranch <name>
+
+## Rebase as default pull method
+
+I always hate it when I pull and a merge commit is created. Especially, when I’m developing on master and I cannot push anymore afterward (because the local branch is not ahead of the remote one).
+  
+> git config --global pull.rebase true
+
+## Auto stash
+Having a clean master is not the only benefit of using rebase as the default pull action. By setting the following config, one does not need to stash their WIP before pulling, because will do it automatically:
+  
+> git config --global rebase.autoStash true
+
+## force with lease
+As someone who rebases, I need to push to the remote branch with --force-with-lease a lot. And it’s boring to write the whole thing every time:
+  
+> git config --global alias.enforce "push --force-with-lease"
+> git enforce
+
+## Default name upon push
+Imagine you have created a new branch and want to push it to the remote repo for the first time. Git will complain and say that you should set the upstream:
+  
+> git push -u origin the-same-name-as-my-current-branch
+
+This whole workflow is super annoying. That’s why there is a config to automate it:
+
+
+> git config --global push․default current
+
+  
 # Recipes
 ## "Chunking" changes
 Below you will find several techniques to simplify a rebase with another branch.
