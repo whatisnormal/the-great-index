@@ -26,6 +26,7 @@ Replace "id_rsa" with your pvt key file. More at [Add Identity Using Keychain
 - [learn regex using crosswords](https://regexcrossword.com/)
 
 # SQL
+- [9 SQL Core Concepts](https://towardsdatascience.com/9-sql-core-concepts-that-helped-me-get-my-first-data-analyst-job-a582f892276f)
 - [Learn sql with murder mistery](https://mystery.knightlab.com/)
 - [SQL tricks of an application DBA](https://hakibenita.com/sql-tricks-application-dba)
 - [A guide to DB performance for developers - use the index luke](https://use-the-index-luke.com/)
