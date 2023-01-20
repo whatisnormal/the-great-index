@@ -37,8 +37,10 @@ Replace "id_rsa" with your pvt key file. More at [Add Identity Using Keychain
 - [CSS Dinner - learn by playing](https://flukeout.github.io/)
 - [Flexbox froggy](https://flexboxfroggy.com/)
 ## Javascript
+- [JS Awesome learning](https://github.com/micromata/awesome-javascript-learning)
 - [WarriorsJS](https://warriorjs.com)
 - [JS Robot](https://lab.reaal.me/jsrobot/)
+- [List of FE Arch topics](https://github.com/stevekinney/frontend-architecture-topics)
 
 ## RX JX
 - [Primer](https://www.learnrxjs.io/learn-rxjs/concepts/rxjs-primer)
