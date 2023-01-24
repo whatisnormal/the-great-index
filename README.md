@@ -52,10 +52,16 @@ Replace "id_rsa" with your pvt key file. More at [Add Identity Using Keychain
 - [JS Robot](https://lab.reaal.me/jsrobot/)
 - [List of FE Arch topics](https://github.com/stevekinney/frontend-architecture-topics)
 
-## RX JX
+##Angular
+- [Lifecycle hooks - well explained](https://indepth.dev/posts/1494/complete-guide-angular-lifecycle-hooks)
+- [Angular providers](https://www.tektutorialshub.com/angular/angular-providers/)
+
+
+## RX JS
 - [Primer](https://www.learnrxjs.io/learn-rxjs/concepts/rxjs-primer)
 - [Playground and examples](https://thinkrx.io/rxjs/)
 
+#BE
 ## Golang
 - [general education](https://mehdihadeli.github.io/awesome-go-education/)
 - [tutorial](https://quii.gitbook.io/learn-go-with-tests/)
