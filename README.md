@@ -1,3 +1,7 @@
+# Decision making
+## Mental models
+- [Mental models from multiple fields](https://fs.blog/mental-models/)
+
 
 # Containers
 - [Learn containers from the ground up](https://iximiuz.com/en/posts/container-learning-path)
@@ -32,6 +36,9 @@ Replace "id_rsa" with your pvt key file. More at [Add Identity Using Keychain
 - [A guide to DB performance for developers - use the index luke](https://use-the-index-luke.com/)
 - [Old and new features and what products support them](https://modern-sql.com/)
 
+# System design
+## Domain Driven Design
+- [Difference between Aggregste and a bounded context](https://levelup.gitconnected.com/whats-the-difference-between-an-aggregate-and-a-bounded-context-85665c28411a)
 # Frontend
 ## CSS
 - [CSS Dinner - learn by playing](https://flukeout.github.io/)
