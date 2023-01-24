@@ -1,3 +1,6 @@
+# People Development
+- [Monday´s Competencies & Key principles - Career FW](https://growth.monday.com/homepage/rd/engineering/)
+
 # Decision making
 ## Mental models
 - [Mental models from multiple fields](https://fs.blog/mental-models/)
